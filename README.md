@@ -65,9 +65,9 @@ If using as-is, printed output/dialogs are used and user input required.
 If you are using ACS data, be sure to remove/exclude the descriptive row when trying to perfom any calculations on the datasets, as it will otherwise cause errors due to multiple dataTypes
 
 Example of dialog and output of dataViz_2dist.ipynb
-![Example dialog of ...](../output_practice/povPlotDialog.png)
+![Example dialog of ...](https://github.com/kgmcdaid/maybe_wormy/blob/master/povPlotDialog.png)
 
-![Example output of the ](../output_practice/povPlot.png)
+![Example output of the ](https://github.com/kgmcdaid/maybe_wormy/blob/master/povPlot.png)
 
 ### ArcGIS -
 Format: mxd file
@@ -84,7 +84,7 @@ Files used:
 Percent poverty layer
 
 Image of the soil layer in arcGIS:
-![Soil](../endpieces/smaller_soils.png)
+![Soil](https://github.com/kgmcdaid/maybe_wormy/blob/master/smaller_soils.png)
 
 
 
@@ -116,7 +116,7 @@ The rankings were:
  - HIGH: 10
 
 
-![50_70_S15Mod2](../endpieces/50_70_breaks_small.png)
+![50_70_S15Mod2](https://github.com/kgmcdaid/maybe_wormy/blob/master/50_70_breaks_small.png)
 
 
 
